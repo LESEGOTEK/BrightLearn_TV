@@ -15,3 +15,6 @@ Strategic Recomendations; provide evidence based proposala to strengthen the CVM
 
 ## Dataset Overview
 
+Timesad dates  of viewership Consumption is split per session, i.e. for every session a subscriber has, there will be
+1 record.
+
