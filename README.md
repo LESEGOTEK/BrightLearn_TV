@@ -5,7 +5,7 @@ Bright TV CEO has requested that we do a strategic priority for the current fina
 This documents the analytical framework,methodologies and findings designed to inform decision making and to guide initiatives that will contribute in growing the subscribtions.
 
 ## Ojectives 
-Subscriptio Growth Analysis; Identify key drivers that influences acquisition,retention and churn
+Subscription Growth Analysis; Identify key drivers that influences acquisition,retention and churn
 
 Customer Segmentation;identify susbcribers and prospects into a meaningfull segment based on the demographics and viewers behavior.
 
